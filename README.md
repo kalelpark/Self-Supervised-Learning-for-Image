@@ -17,6 +17,9 @@
 |NIPS 2021|Self-Supervised Visual Representation Learning with Semantic Grouping|[PDF](https://arxiv.org/abs/2205.15288)|
 |CVPR 2021|Improving Unsupervised Image Clustering With Robust Learning|[PDF](https://arxiv.org/abs/2012.11150)|
 |ECCV 2022|Tailoring Self-Supervision for Supervised Learning|[PDF](https://arxiv.org/abs/2207.10023)|
+|ICLR 2023|Self-supervised learning with rotation-invariant kernels |[PDF](https://openreview.net/pdf?id=8uu6JStuYm)|
+|ICLR 2023|On the duality between contrastive and non-contrastive self-supervised learning |[PDF](https://openreview.net/pdf?id=kDEL91Dufpa)|
+|ICLR 2023|SimPer: Simple Self-Supervised Learning of Periodic Targets  |[PDF](https://openreview.net/pdf?id=EKpMeEV0hOo)|
 
 ## Semi Supervised Learning for Image Representation
 
