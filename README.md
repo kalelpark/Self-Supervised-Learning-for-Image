@@ -1,4 +1,4 @@
-## Self Supervised Learning for Image Representation
+## Self Supervised Learning for Image Representation Learninig
 
 |Year|Name|arXiv|
 |---|---|---|
@@ -17,12 +17,15 @@
 |NIPS 2021|Self-Supervised Visual Representation Learning with Semantic Grouping|[PDF](https://arxiv.org/abs/2205.15288)|
 |CVPR 2021|Improving Unsupervised Image Clustering With Robust Learning|[PDF](https://arxiv.org/abs/2012.11150)|
 |ECCV 2022|Tailoring Self-Supervision for Supervised Learning|[PDF](https://arxiv.org/abs/2207.10023)|
+|ICLR 2022|VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning  |[PDF](https://arxiv.org/abs/2105.04906)|
 |ICLR 2023|Self-supervised learning with rotation-invariant kernels |[PDF](https://openreview.net/pdf?id=8uu6JStuYm)|
 |ICLR 2023|On the duality between contrastive and non-contrastive self-supervised learning |[PDF](https://openreview.net/pdf?id=kDEL91Dufpa)|
 |ICLR 2023|SimPer: Simple Self-Supervised Learning of Periodic Targets  |[PDF](https://openreview.net/pdf?id=EKpMeEV0hOo)|
 
-## Semi Supervised Learning for Image Representation
+
+## Semi Supervised Learning for Image Representation Learninig
 
 |Year|Name|Arxiv|
 |---|---|---|
-|2019|MixMatch: A Holistic Approach to Semi-Supervised Learning|[PDF](https://arxiv.org/abs/1905.02249)|
+|NIPS 2019|MixMatch: A Holistic Approach to Semi-Supervised Learning|[PDF](https://arxiv.org/abs/1905.02249)|
+|NIPS 2019|FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence|[PDF](https://arxiv.org/abs/2001.07685)|
